@@ -1,0 +1,7 @@
+Exposure,Exposure_Col,Outcome,Outcome_Col,N,OLS Beta,OLS p,CI_Lower,CI_Upper
+MO1_GenAI_Composite,mo1_genai_composite_score,DV1_Clinical_Care,dv1_clinical_care_score,3134,-46.522027072377504,1.641283090050638e-06,-65.54505616540298,-27.49899797935203
+MO1_GenAI_Composite,mo1_genai_composite_score,DV2_Health_Outcomes,dv2_health_outcomes_score,3134,-37.20463713232036,0.0004615047595032769,-58.02600947434239,-16.383264790298327
+MO1_GenAI_Composite,mo1_genai_composite_score,DV3_Patient_Services_Margin,dv3_avg_patient_services_margin,2108,0.006448434203432479,0.3050254269679751,-0.0058733952918235185,0.018770263698688477
+MO2_Robotics_Composite,mo2_robotics_composite_score,DV1_Clinical_Care,dv1_clinical_care_score,3134,-27.128530863651694,1.2919333654137204e-08,-36.477879057459354,-17.779182669844033
+MO2_Robotics_Composite,mo2_robotics_composite_score,DV2_Health_Outcomes,dv2_health_outcomes_score,3134,-23.443357752434082,2.155889488217491e-05,-34.25951367457962,-12.627201830288541
+MO2_Robotics_Composite,mo2_robotics_composite_score,DV3_Patient_Services_Margin,dv3_avg_patient_services_margin,2108,0.002620746499100714,0.13201859360561985,-0.0007895611290858165,0.006031054127287244

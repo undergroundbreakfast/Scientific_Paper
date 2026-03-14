@@ -1,0 +1,5 @@
+Version,View,Analysis,Method,Treatment,Outcome,N,N_Treated,N_Control,ATE,CI_Lower,CI_Upper,p_value,Median_Threshold,Moderator,Beta_Interaction
+OLD,vw_conceptual_model_adjpd,Direct Effect,AIPW,MO1 (GenAI Composite),DV2 (Health Outcomes),3135,571.0,2564.0,-247.59703055211776,-548.0081246160343,30.44460214430938,0.09181636726546906,0.0,,
+NEW,vw_conceptual_model_adjpd_v2,Direct Effect,AIPW,MO1 (GenAI Composite),DV2 (Health Outcomes),3135,571.0,2564.0,-247.59703055211776,-548.0081246160343,30.44460214430938,0.09181636726546906,0.0,,
+OLD,vw_conceptual_model_adjpd,Moderation Effect,Clustered OLS,MO1 (GenAI Composite),DV2 (Health Outcomes),3135,,,,-7.135647767476752,-1.3607217945430508,0.00393157406042905,,IV3 (Health Behaviors),-4.248184781009901
+NEW,vw_conceptual_model_adjpd_v2,Moderation Effect,Clustered OLS,MO1 (GenAI Composite),DV2 (Health Outcomes),3135,,,,-6.899630846834146,-1.7840606094619447,0.0008777280610201805,,IV3 (Health Behaviors),-4.341845728148045
